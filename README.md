@@ -6,7 +6,7 @@ A real-time 3D gravitational N-body simulation with spacetime grid warping, buil
 
 ## Demo
 
-<video src="Screencast from 05-10-2026 11_48_18 AM (online-video-cutter.com).mp4" controls width="100%"></video>
+<video src="Screencast%20from%2005-10-2026%2011_48_18%20AM%20%28online-video-cutter.com%29.mp4" controls width="100%"></video>
 
 ---
 
